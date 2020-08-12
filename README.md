@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Swift" width="26px" src=[logo-Swift] />
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
 <img align="left" alt="Objective-C" width="26px" src=[logo-Objective-C] />
 <img align="left" alt="Xcode" width="26px" src=[logo-xcode] />
 <img align="left" alt="Firebase" width="26px" src=[logo-firebase] />
