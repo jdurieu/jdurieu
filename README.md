@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/topics/swift/swift.png" />
+<img align="left" alt="Swift" width="26px" src=[logo-Swift] />
 <img align="left" alt="Objective-C" width="26px" src=[logo-Objective-C] />
 <img align="left" alt="Xcode" width="26px" src=[logo-xcode] />
 <img align="left" alt="Firebase" width="26px" src=[logo-firebase] />
@@ -56,7 +56,8 @@
 [twitter]: https://twitter.com/jdurieu
 [linkedin]: https://linkedin.com/in/jdurieu
 
-[logo-Swift]: https://raw.githubusercontent.com/github/explore/topics/swift/swift.png
+<!-- [logo-Swift]: https://raw.githubusercontent.com/github/explore/topics/swift/swift.png -->
+[logo-Swift]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png
 [logo-Objective-C]: https://raw.githubusercontent.com/github/explore/topics/objective-c/objective-c.png
 [logo-xcode]: https://raw.githubusercontent.com/github/explore/topics/xcode/xcode.png
 [logo-firebase]: https://raw.githubusercontent.com/github/explore/topics/firebase/firebase.png
