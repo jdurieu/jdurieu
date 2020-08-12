@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jonathan][website] 👋
 
 ## I'm a iOS & web Developer!
-- 🌱 I’m currently learning a lot 🤣
+- 🌱 I’m currently learning a lot...
 - ⚡ Fun fact: I love to bike.
 
 ### Connect with me:
@@ -21,6 +21,9 @@
 <img align="left" alt="Markdown" width="26px" src=[logo-markdown] />
 <img align="left" alt="Docker" width="26px" src=[logo-docker] />
 <img align="left" alt="Zeplin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
+<img align="left" alt="Hugo" width="26px" src="https://github.com/jdurieu/jdurieu/raw/master/Assets/Hugo.png
+" />
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,12 +41,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -55,11 +52,3 @@
 [website]: https://www.jdurieu.be
 [twitter]: https://twitter.com/jdurieu
 [linkedin]: https://linkedin.com/in/jdurieu
-
-<!-- [logo-Swift]: https://raw.githubusercontent.com/github/explore/topics/swift/swift.png -->
-[logo-Swift]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png
-[logo-Objective-C]: https://raw.githubusercontent.com/github/explore/topics/objective-c/objective-c.png
-[logo-xcode]: https://raw.githubusercontent.com/github/explore/topics/xcode/xcode.png
-[logo-firebase]: https://raw.githubusercontent.com/github/explore/topics/firebase/firebase.png
-[logo-markdown]: https://raw.githubusercontent.com/github/explore/topics/markdown/markdown.png
-[logo-docker]: https://raw.githubusercontent.com/github/explore/topics/docker/docker.png
