@@ -45,7 +45,10 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.jdurieu.vercel.app/api?username=jdurieu&show_icons=true&hide_border=true" />
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jdurieu&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdurieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://www.jdurieu.be
 [twitter]: https://twitter.com/jdurieu
