@@ -20,10 +20,10 @@
 <img align="left" alt="Firebase" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/firebase.png" />
 <img align="left" alt="Markdown" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/markdown.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/docker.png" />
-<img align="left" alt="Zeplin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
+<img align="left" alt="Zeplin" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/zeplin.png" />
 <img align="left" alt="Hugo" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/Hugo.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/jdurieu/jdurieu/blob/82b8dcefd34ed344602ab2fb209a8ab425be2cca/Assets/react.png" />
